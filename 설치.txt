@@ -1,0 +1,35 @@
+
+node설치
+
+npm init -y ==> package.json 생성
+
+touch README.md ==> README.md생성(git bash에서 명령어 때려야함)
+
+npm i nodemon -D
+
+babel.config.json
+nodemon.json 파일 만들기
+
+src/ server.js 파일 만들기
+
+git init .
+
+바벨 설치
+npm i @babel/core -D 
+npm i @babel/cli -D 
+npm i @babel/node -D 
+npm i @babel/preset-env -D
+
+touch .gitignore
+
+npm i express
+
+npm i pug
+
+sever.js 코딩
+
+npm run dev
+
+public/js/app/js 생성
+
+npm i ws

@@ -1,0 +1,11 @@
+WebSocket
+
+http : 프로토콜 : staeless => 백엔드가 user를 기억 못한다.
+
+websocket :  (wss)프로토콜 : statefull
+클라이언트와 서버가 연결되어있다.
+연결되어있을때만 접근 가능하다.
+
+
+
+
